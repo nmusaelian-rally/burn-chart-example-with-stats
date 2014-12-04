@@ -1,0 +1,12 @@
+{
+   "name": "Burn Chart Example",
+   "className": "Rally.example.BurnChart",
+   "server": "https://rally1.rallydev.com",
+   "sdk": "2.0rc3",
+   "javascript": [
+      "App.js"
+   ],
+   "css": [
+      "app.css"
+   ]
+}
